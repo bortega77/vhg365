@@ -1,0 +1,21 @@
+# macOS junk
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon?
+._*
+.Spotlight-V100
+.Trashes
+
+# Adobe scratch and lock files
+*.tmp
+*.temp
+~*
+*.aslock
+Adobe Premiere Pro Auto-Save/
+Adobe After Effects Auto-Save/
+
+# Editors
+.vscode/
+.idea/
+*.swp
